@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Format JSDoc @params",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
+		"JSX",
+		"Package Control",
+		"Pretty JSON",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"Syntax Highlighting for PostCSS",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight"
+	]
+}
